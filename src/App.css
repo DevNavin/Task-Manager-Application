@@ -1,0 +1,25 @@
+.App {
+  min-height: 100vh;
+  padding: 50px;
+}
+
+.sort-by {
+  text-wrap: nowrap;
+  margin-right: 15px;
+}
+
+.task-list-card.row {
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  border-radius: 8px;
+}
+
+.border-red {
+  border: 2px solid red;
+}
+
+.border-green {
+  border: 2px solid green;
+}
